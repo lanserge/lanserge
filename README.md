@@ -36,4 +36,4 @@ MIPT. Merged upstream patches in open EDA tools.
 Consulting — ISP bring-up, imaging pipelines, EDA tooling — and
 [GitHub Sponsors](https://github.com/sponsors/lanserge), where sponsorship
 funds named capability targets that land open, with your name on the
-release. **s.rabykin@gmail.com**
+release. **s.rabykin@gmail.com** · [serge.rabyking.com](https://serge.rabyking.com)
